@@ -25,12 +25,14 @@ public class PeopleController {
     @GetMapping()
     public String index(Model model) {
         model.addAttribute("people", personDAO.index());
+        System.out.println("ff");
         return "people/index";
     }
 
     @GetMapping("/{id}")
     public String show(@PathVariable("id") int id, Model model) {
         model.addAttribute("person", personDAO.show(id));
+        System.out.println("tired");
         return "people/show";
     }
 }

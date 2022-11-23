@@ -33,6 +33,8 @@ public class PeopleController {
     public String show(@PathVariable("id") int id, Model model) {
         model.addAttribute("person", personDAO.show(id));
         System.out.println("tired");
+        System.out.println("tired");
+        System.out.println("tired");
         return "people/show";
     }
 }

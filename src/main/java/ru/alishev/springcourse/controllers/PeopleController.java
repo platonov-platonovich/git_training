@@ -34,7 +34,7 @@ public class PeopleController {
         model.addAttribute("person", personDAO.show(id));
         System.out.println("tired");
         System.out.println("tired");
-        System.out.println("master");
+        System.out.println("master2");
         return "people/show";
     }
 }

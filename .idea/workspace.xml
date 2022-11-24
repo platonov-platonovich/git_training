@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bf4aafd-5a5c-4b8e-9f3f-6dc3cf36126c" name="Changes" comment="learn 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/alishev/springcourse/controllers/PeopleController.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bf4aafd-5a5c-4b8e-9f3f-6dc3cf36126c" name="Changes" comment="learn 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="into" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,13 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/SpringCourse-master/Lesson21.CRUD_App1&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;ed0ecefa11e39c71cbc7ff6d6b27b5a5&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/SpringCourse-master/Lesson21.CRUD_App1",
+    "spring.configuration.checksum": "ed0ecefa11e39c71cbc7ff6d6b27b5a5"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +61,49 @@
       <workItem from="1668549682868" duration="240000" />
       <workItem from="1668628928626" duration="115000" />
     </task>
+    <task id="LOCAL-00001" summary="learn 3">
+      <created>1669299767671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669299767671</updated>
+    </task>
+    <task id="LOCAL-00002" summary="learn 3">
+      <created>1669299774438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669299774438</updated>
+    </task>
+    <task id="LOCAL-00003" summary="learn 5">
+      <created>1669299886179</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669299886179</updated>
+    </task>
+    <task id="LOCAL-00004" summary="learn into 5">
+      <created>1669299945407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669299945407</updated>
+    </task>
+    <task id="LOCAL-00005" summary="learn into 6">
+      <created>1669299961297</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669299961297</updated>
+    </task>
+    <task id="LOCAL-00006" summary="learn 6">
+      <created>1669300009768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669300009768</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,7 +114,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="into" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="f90c606d-f7c6-42ed-8e8c-cdf0abddfa03">
@@ -82,14 +142,14 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="f90c606d-f7c6-42ed-8e8c-cdf0abddfa03" value="TOOL_WINDOW" />
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learn 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn 2" />
+    <MESSAGE value="learn 3" />
+    <MESSAGE value="learn 5" />
+    <MESSAGE value="learn into 5" />
+    <MESSAGE value="learn into 6" />
+    <MESSAGE value="learn 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn 6" />
   </component>
 </project>
